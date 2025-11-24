@@ -8,7 +8,8 @@ A machine learning classifier for genetic data, built with FastAPI and PyTorch. 
 - PyTorch for deep learning model implementation
 - Docker containerization for easy deployment
 - Pandas for data processing
-- Pre-trained model included (ONLY FOR SPLICE-JUNCTION GENE SEQUENCE DATA, demo purposes)
+- Pre-trained model included (ONLY FOR SPLICE-JUNCTION GENE SEQUENCE DATA)
+(dataset: https://www.kaggle.com/datasets/muhammetvarl/splicejunction-gene-sequences-dataset)
 
 ## Prerequisites
 
@@ -76,7 +77,7 @@ A machine learning classifier for genetic data, built with FastAPI and PyTorch. 
 
 ## License
 
-[Your License Here]
+[MIT License]
 
 ## Acknowledgments
 
