@@ -20,8 +20,8 @@ A machine learning classifier for genetic data, built with FastAPI and PyTorch. 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/FastAPI-ML-Classifier-Genomics.git
-   cd FastAPI-ML-Classifier-Genomics
+   git clone https://github.com/yourusername/FastAPI-ML-Classifier.git
+   cd FastAPI-ML-Classifier
    ```
 
 2. **Start the application**
